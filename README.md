@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @gamesam88
+- 👋 Hi, I’m Alexander
 - 👀 I’m interested in find a job.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React and JS.
 
 <!---
 gamesam88/gamesam88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
